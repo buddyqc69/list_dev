@@ -138,3 +138,9 @@ vid.connatix.com
 https://pagead2.googlesyndication.com/?adblock_test=1783297207964_b6u5bsylz84
 https://pagead2.googlesyndication.com/favicon.ico?adblock_test=1783297207964_dwyui9zgzd8
 https://pagead2.googlesyndication.com/robots.txt?adblock_test=1783297207964_dvcsr127g18
+https://googleads.g.doubleclick.net/?adblock_test=1783297207976_ovt9latnr8h
+https://googleads.g.doubleclick.net/favicon.ico?adblock_test=1783297207976_tvwmomwtga
+https://googleads.g.doubleclick.net/robots.txt?adblock_test=
+https://googleads4.g.doubleclick.net/?adblock_test=1783297207976_n606psgryw
+https://googleads4.g.doubleclick.net/favicon.ico?adblock_test=1783297207978_148hf3kpfgp
+https://googleads4.g.doubleclick.net/robots.txt?adblock_test=1783297207978_94662ava3dq
